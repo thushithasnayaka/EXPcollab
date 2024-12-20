@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h> 
 #include<conio.h> 
 #define MAX 5 
@@ -45,4 +46,10 @@ printf("enter the element to be pushed into the stack\n");
 scanf("%d",&element);
 stack[top]=element;
 }
+=======
+#include<stdio.h>
+int main()
+{
+ printf("Hello World");
+>>>>>>> 4ac425ab283977fda4e7bbad7e5818e4bf7eadcc
 }
